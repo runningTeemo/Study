@@ -10,4 +10,5 @@
 * Serialization
   * AFURLRequestSerialization
   * AFURLResponseSerialization
+* [AFURLSessionManager](afurlsessionmanager.md)
 
