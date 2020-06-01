@@ -6,5 +6,5 @@
 * [Reachability](reachability.md)
   * [AFNetworkReachabilityManager](afnetworkreachabilitymanager.md)
 * [Security](security.md)
-* [AFSecurityPolicy](afsecuritypolicy.md)
+  * [AFSecurityPolicy](afsecuritypolicy.md)
 
