@@ -7,4 +7,7 @@
   * [AFNetworkReachabilityManager](afnetworkreachabilitymanager.md)
 * [Security](security.md)
   * [AFSecurityPolicy](afsecuritypolicy.md)
+* Serialization
+  * AFURLRequestSerialization
+  * AFURLResponseSerialization
 
